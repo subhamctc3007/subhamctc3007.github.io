@@ -13,9 +13,11 @@ nav{
 }
 nav .pages{
     background-color: black;
+    margin: 0px 10px;
 }
 nav .home{
-    margin: 0px 30px 0px 50px;
+    margin-left: 50px;
+    color: rgb(0, 144, 144);
 }
 nav .pages a{
     text-decoration: none;
